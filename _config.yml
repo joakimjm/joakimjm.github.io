@@ -1,12 +1,12 @@
-title: Joakim Buschardt Møller
+title: Atom Veto | Joakim Buschardt Møller
 email: joakim@solitune.dk
 description: >-
-  Joakim Buschardt Møller is a creative coder, musician, technologist and humanist.
-url: "https://blog.yw.gl"
+  Joakim Buschardt Møller is a creative coder, musician, technologist and humanist. Atom Veto is his personal blog.
+url: "https://blog.atomveto.com"
 github_username:  joakimjm
 linkedin_username: joakimjm
 show_excerpts: true
-
+timezone: Europe/Copenhagen
 theme: minima
 plugins:
   - jekyll-feed
