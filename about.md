@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Joakim and I love to build and develop things out of thin air: [software](https://github.com/joakimjm), [music](https://open.spotify.com/artist/0btBp6srUORXtz5XuKtNim), [health](https://oxygym.dk/), [relationships](https://www.linkedin.com/in/joakimjm/) and people.
 
-I live with my wife in Copenhagen and while I work for Copenhagen Optimization, this blog, its content and opinions are my own.
+I live with my wife in Copenhagen and while I work for [Copenhagen Optimization](https://copenhagenoptimization.com/), this blog, its content and opinions are my own.
 
 I work to inspire simplicity and efficiency, so anyone can live fulfilled lives with minimal effort. I do it through friendship, leadership and building useful software.
 
