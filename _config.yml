@@ -4,7 +4,8 @@ description: >-
   Joakim Buschardt Møller is a creative coder, musician, technologist and humanist.
 url: "https://blog.yw.gl"
 github_username:  joakimjm
-
+linkedin_username: joakimjm
+show_excerpts: true
 
 theme: minima
 plugins:
