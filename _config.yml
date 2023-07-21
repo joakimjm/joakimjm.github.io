@@ -10,3 +10,5 @@ timezone: Europe/Copenhagen
 theme: minima
 plugins:
   - jekyll-feed
+disqus:
+  shortname: atomveto
