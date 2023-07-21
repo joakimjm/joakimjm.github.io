@@ -12,7 +12,7 @@ I work to inspire simplicity and efficiency, so anyone can live fulfilled lives 
 
 # Background
 
-Combining the engineering disciplines from the Technical University of Denmark with the managerial and economic perspectives from Copenhagen Business School has given me a nuanced perspective on to _how to business_.
+Combining the engineering disciplines from the Technical University of Denmark with the managerial and economic perspectives from Copenhagen Business School has given me a nuanced perspective on _how to business_.
 
 I've always found it natural to empathize with and bridge what's important to engineering with what's important to the business. Maybe that's why I've always been excited about business-to-business software as a service products.
 
