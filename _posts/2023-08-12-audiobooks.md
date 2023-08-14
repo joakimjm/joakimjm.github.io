@@ -46,7 +46,7 @@ As an experiment to see if non-fiction audiobooks could become a part of the edu
 
 I would go so far as to argue that, as long as it’s non-fiction, the topic doesn't matter as much. A company is the sum of it's employees, so anything that improves an employee, improves the company. The most important factor is personal mastery. We read books to add a different perspectives to our own, not to replace our own.
 
-If you wanted help with a concrete place to start, we had put together list for inspiration that included the books from our physical library at the time (listed at the end). Everyone was also invited to come talk to me and to figure it out together.
+If you wanted help with a concrete place to start, we had put together a list for inspiration that included the books from our physical library at the time (listed at the end). Everyone was also invited to come talk to me and to figure it out together.
 
 ## Tips for starters
 
