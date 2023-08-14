@@ -62,19 +62,19 @@ For many people, it's such an easy transition to make, because the habit of list
 
 ## List for inspiration
 
-- Stephen R. Covey: The 7 Habits of Highly Effective People
-- Daniel Pink - Drive: The Surprising Truth about What Motivates Us
-- L. David Marquet: Turn the Ship Around!
-- Chris Zook - The Founder’s Mentality: How to Overcome the Predictable Crises of Growth
-- Sean Covey - The 4 Disciplines of Execution: Achieving Your Wildly Important Goals
-- Andrew S. Grove: High Output Management
-- Eric Ries: The Lean Startup
-- Marshall Rosenberg - Nonviolent Communication: Create Your Life, Your Relationships, and Your World in Harmony with Your Values
-- Gary Hamel: Humanocracy: Creating Organizations as Amazing as the People Inside Them
-- John Doerr - Measure What Matters: OKRs: The Simple Idea That Drives 10x Growth
-- Jonathan Smart - Sooner Safer Happier: Antipatterns and Patterns for Business Agility
-- Gene Kim - The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations
-- Gene Kim - Accelerate: Building and Scaling High Performing Technology Organizations
+
+- Stephen R. Covey — “The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change”
+- Daniel Pink — “Drive: The Surprising Truth about What Motivates Us”
+- L. David Marquet — “Turn the Ship Around!: A True Story of Turning Followers into Leaders”
+- Chris Zook — “The Founder’s Mentality: How to Overcome the Predictable Crises of Growth”
+- Sean Covey — “The 4 Disciplines of Execution: Achieving Your Wildly Important Goals”
+- Andrew S. Grove — “High Output Management”
+- Eric Ries — “The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses”
+- Marshall Rosenberg — “Nonviolent Communication: Create Your Life, Your Relationships, and Your World in Harmony with Your Values”
+- Gary Hamel — “Humanocracy: Creating Organizations as Amazing as the People Inside Them”
+- John Doerr — “Measure What Matters: OKRs: The Simple Idea That Drives 10x Growth”
+- Jonathan Smart — “Sooner Safer Happier: Antipatterns and Patterns for Business Agility”
+- Gene Kim — “The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations”
 
 ----
 
